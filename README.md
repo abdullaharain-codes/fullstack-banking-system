@@ -20,7 +20,7 @@ Handles real-world banking operations: accounts, transactions, loans, and role-b
 
 <br/>
 
-[Live Demo](#) · [Documentation](#) · [Report Bug](#) · [Request Feature](#)
+ · [Documentation](#) · [Report Bug](#) · [Request Feature](#)
 
 </div>
 
