@@ -4,7 +4,7 @@
 
 # Secure Bank — Full Stack Banking Management System
 
-**An enterprise-grade, multi-role banking platform built with Flask & MySQL.**  
+**An Enterprise-Grade, multi-role banking platform built with Flask & MySQL.**  
 Handles real-world banking operations: accounts, transactions, loans, and role-based access — all in one secure system.
 
 <br/>
